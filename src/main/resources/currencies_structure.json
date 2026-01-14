@@ -13,6 +13,15 @@
       "Value": 52.7587,
       "Previous": 52.4979
     },
+    "Ururu": {
+      "ID": "qwerty",
+      "NumCode": "12345",
+      "CharCode": "Ururu",
+      "Nominal": 1,
+      "Name": "Ковуаньский мяур",
+      "Value": 17.232,
+      "Previous": 15.765
+    },
     "AZN": {
       "ID": "R01020A",
       "NumCode": "944",
